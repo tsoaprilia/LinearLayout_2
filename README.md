@@ -71,6 +71,11 @@ Contoh komponen viewgroup adalah:
 
 ![WhatsApp Image 2021-02-09 at 21 04 56](https://user-images.githubusercontent.com/60412314/107374755-846d2800-6b1a-11eb-9e9e-d341e4a33609.jpeg)
 
+# ConstrainLayout
+ 
+![WhatsApp Image 2021-02-09 at 22 15 48](https://user-images.githubusercontent.com/60412314/107384303-69071a80-6b24-11eb-8e7e-3f03ff1415ac.jpeg)
+
+
 # Kesimpulan 1
 Activity adalah komponen yang dapat dilihat oleh pengguna, sehingga mereka dapat berinteraksi dengan aplikasi. Ada dua metode yang pasti dimiliki oleh satu activity yaitu metode OnCreate dan metode OnPause.
 Metode OnCreate digunakan untuk menginisiasi suatu activity, biasanya dipanggil dengan perintah setContentCiew(int) dan findViewById(int). Sedangkan Metode OnPause digunakan untuk menyatakan ketika user meninggalkan suatu activity, 
