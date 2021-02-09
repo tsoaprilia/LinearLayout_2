@@ -79,9 +79,8 @@ untuk penggunaan dengan Context.StartActivity().
 # Kesimpulan 2
 Jadi Perbedaan dari LinearLayout, RelativeLayout,constrainLayout yaitu terdapat pada susunan-susunan komponen yang ada pada masing-masing layout tersebut dan sifatnya.
 
-Pada ConstrainLayout lebih memanjakan pengguna untuk mengatur layoutnya sendiri secara faksible dan bersifat mudah dibuat,
+Pada ConstrainLayout lebih memanjakan pengguna untuk mengatur layoutnya sendiri secara faksible dan bersifat mudah dibuat.
 Pada RelativeLayout pengaturan bersifat sangat relatif yang memungkinkan untuk membuat desain layout yang lebih kompleks dan dapat secara bebas mengatur objek objek yang kita tempatkan, tetapi pada relative layout tampilannya hanya akan terlihat sesuai dengan apa 
-yang telah ditetapkan sebelumnya jika ukuran layar berubah bisa saja objek ada yang terpotong atau bahkan tidak terlihat. Sedangkan pada LinearLayout sendiri membuat perubahan pada bentuk layout secara Horizontal dan Vertical, linear layout bisa mengikuti
-ukuran layar handphone yang berbeda-beda tanpa merubah susuan objek.
+yang telah ditetapkan sebelumnya jika ukuran layar berubah bisa saja objek ada yang terpotong atau bahkan tidak terlihat. Sedangkan pada LinearLayout sendiri membuat perubahan pada bentuk layout secara Horizontal dan Vertical, LinearLayout bisa mengikuti ukuran layar handphone yang berbeda-beda tanpa merubah susuan objek.
 
 # Terimakasi :)
